@@ -1,0 +1,2 @@
+FROM pushkarnk/springboot-petclinic:latest
+COPY crac-files /opt/crac-files 
